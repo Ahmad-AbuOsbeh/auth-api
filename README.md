@@ -49,7 +49,9 @@ data should be:
 
 # PR link
 
-[PR link](https://github.com/Ahmad-AbuOsbeh/bearer-auth/pull/1)
+[PR link](https://github.com/Ahmad-AbuOsbeh/auth-api/pull/1)
+
+- https://github.com/Ahmad-AbuOsbeh/auth-api/pull/1
 
 **Tests**
 
