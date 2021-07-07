@@ -15,12 +15,39 @@
 - npm start
 - Endpoint:
 
+**user data**
+
 ```
 data should be:
- const obj = {
-    username: 'ahmad',
-    password: '1234',
+ const obj =  {
+   "name":"ahmad",
+  "password": 1234,
+  "role": "admin"
   };
+
+```
+
+**1- food data**
+
+```
+data should be:
+ const obj =  {
+   "name":"orange",
+  "calories": 250,
+  "type": "FRUIT"
+  };
+
+```
+
+**2- clothes data**
+
+```
+data should be:
+ const obj =  {
+   "name": "T-shirt" ,
+  "color": "white" ,
+  "size": "M"
+};
 
 ```
 
