@@ -33,7 +33,7 @@ authRouter.post('/signin', basicAuth, (req, res, next) => {
 authRouter.get(
   '/users',
   bearerAuth,
-  permissions('read'),
+  // permissions('read'),
   async (req, res, next) => {
     const users = await User.find({});
     const list = users.map((user) => user.username);
