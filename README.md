@@ -62,6 +62,11 @@ data should be:
 - https://ahmad-osbeh-auth-api.herokuapp.com/signin
 - https://ahmad-osbeh-auth-api.herokuapp.com/users
 
+**example hit :**
+[food / clothes](https://ahmad-osbeh-auth-api.herokuapp.com/food)
+
+- https://ahmad-osbeh-auth-api.herokuapp.com/food
+
 - Returns : json with requested data
 
 ```
